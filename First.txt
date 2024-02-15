@@ -1,0 +1,5 @@
+My plans:
+1. Web-dev using html,
+2. Altering 1 with css,
+3. Simple game using JS/c/c++,
+4. Combining all these and making a new project.
